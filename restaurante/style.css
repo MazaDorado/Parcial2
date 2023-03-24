@@ -1,0 +1,25 @@
+body {
+    background-color: 	cadetblue;
+        font-family:'Gill Sans', 'Gill Sans M T', Calibri, 'Trebuchet MS', sans-serif
+    }
+    th{
+        background-color: 	 #0bf364;
+    }
+    table{
+        margin-left: 420px;
+        background-color: rgb(231, 211, 27)
+    }
+    .titulo{
+        font-family: 'PROJECT SPACE', sans-serif;
+            font-size: 50px;
+            color: blue;
+            text-align: center;
+    }
+    .collage{
+        position:relative;
+        width: 800px;
+        height:600px;
+        background-color: skyblue;
+        border-radius: 10px;
+        opacity: 0.9;
+    }
